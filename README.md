@@ -107,7 +107,7 @@ Developed as a COAL (Computer Organization and Assembly Language) course project
 
 ---
 
-### Screenshots
+### 🖼️ Screenshots
 
 ![Screenshot 2025-05-14 185307](https://github.com/user-attachments/assets/80af82ab-ba19-49e5-8d80-618c6dcb8918)
 
