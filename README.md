@@ -92,7 +92,7 @@ The game features large, detailed ASCII screens for menus and levels, ensuring a
 ### ▶️ Running the Game
 
 1. **Requirements:**  
-   - 68k Assembly environment (such as an emulator or assembler that supports `irvine32.inc` and Windows console).
+   - x86 Assembly environment (such as an emulator or assembler that supports `irvine32.inc` and Windows console).
    - Sound files: Ensure the required WAV files are present.
 2. **Build & Run:**  
    - Assemble `Main.asm` using your assembler (e.g., MASM for x86).
